@@ -13974,16 +13974,16 @@ msgstr ""
 
 #: ../phpmyadmin/doc/charts.rst:90
 msgid "ADAPTATION HOLES"
-msgstr ""
+msgstr "LUBANG ADAPTASI"
 
 #: ../phpmyadmin/doc/charts.rst:90 ../phpmyadmin/doc/charts.rst:92
 #: ../phpmyadmin/doc/charts.rst:94
 msgid "2.99"
-msgstr ""
+msgstr "2.99"
 
 #: ../phpmyadmin/doc/charts.rst:90
 msgid "18.99"
-msgstr ""
+msgstr "18.99"
 
 #: ../phpmyadmin/doc/charts.rst:92
 msgid "AFFAIR PREJUDICE"
@@ -13991,15 +13991,15 @@ msgstr ""
 
 #: ../phpmyadmin/doc/charts.rst:92
 msgid "26.99"
-msgstr ""
+msgstr "26.99"
 
 #: ../phpmyadmin/doc/charts.rst:94
 msgid "AFRICAN EGG"
-msgstr ""
+msgstr "TELOR AFRIKA"
 
 #: ../phpmyadmin/doc/charts.rst:94
 msgid "22.99"
-msgstr ""
+msgstr "22.99"
 
 #: ../phpmyadmin/doc/charts.rst:97
 msgid ""
@@ -14045,23 +14045,23 @@ msgstr "Tanggal"
 
 #: ../phpmyadmin/doc/charts.rst:130
 msgid "revenue"
-msgstr ""
+msgstr "pemasukan"
 
 #: ../phpmyadmin/doc/charts.rst:130
 msgid "cost"
-msgstr ""
+msgstr "biaya"
 
 #: ../phpmyadmin/doc/charts.rst:132
 msgid "2016-01-08"
-msgstr ""
+msgstr "2016-01-08"
 
 #: ../phpmyadmin/doc/charts.rst:132
 msgid "2056"
-msgstr ""
+msgstr "2056"
 
 #: ../phpmyadmin/doc/charts.rst:132
 msgid "1378"
-msgstr ""
+msgstr "1378"
 
 #: ../phpmyadmin/doc/charts.rst:134
 #, fuzzy
